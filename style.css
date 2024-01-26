@@ -542,7 +542,7 @@ p.footer-text {
 /* Media query for tall screens */
 @media screen and (min-height: 800px) {
   p.footer-text {
-    font-size: 1em; /* Adjust the font size for tall screens */
+    font-size: 0.8em; /* Adjust the font size for tall screens */
   }
 }
 
